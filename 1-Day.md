@@ -118,6 +118,3 @@ Today, I successfully tackled a series of advanced tasks in cloud computing, vir
 ---
 
 These commands are now properly formatted and organized to guide you through managing AWS EC2 instances.
-
-
-https://meet.zoho.in/FeIjerDVaE
